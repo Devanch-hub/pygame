@@ -128,6 +128,9 @@ def output_main(device_id=None):
     #
 
     # GRAND_PIANO = 0
+    # MUSIC_BOX = 11
+    # ACOUSTIC_GUITAR = 24
+    # STEEL_DRUM = 114
     CHURCH_ORGAN = 19
 
     instrument = CHURCH_ORGAN
