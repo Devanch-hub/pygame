@@ -14,8 +14,9 @@ import pygame as pg
 
 pg.init()
 
-RES = (160, 120)
-FPS = 30
+# set the window
+RES = (200, 150)
+FPS = 60
 clock = pg.time.Clock()
 
 print("desktops", pg.display.get_desktop_sizes())
